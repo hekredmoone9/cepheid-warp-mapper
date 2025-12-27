@@ -21,4 +21,4 @@ All code changes must be submitted via a Pull Request for review before being me
 6. Address any review comments.
 7. Once approved, the PR can be merged into `main`.
 
-Refer to the GitHub Issues for specific tasks and assignments.
+Refer to the GitHub Issues for specific tasks and assignments. In the meantime, see [TASKS.md](TASKS.md) for a detailed breakdown of the tasks.
